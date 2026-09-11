@@ -1,0 +1,18 @@
+﻿# Obsidian 工作区状态（随每次开关窗口变化，不纳入版本控制）
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/workspace
+
+# Obsidian 缓存 / 插件数据
+**/.obsidian/cache/
+**/.obsidian/plugins/*/data.json
+**/.trash/
+
+# 系统垃圾文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 编辑器临时文件
+*.tmp
+*~
